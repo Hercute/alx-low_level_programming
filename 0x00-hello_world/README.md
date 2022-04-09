@@ -1,1 +1,1 @@
-Write a C program that prints exactly Programming is like building a multilingual puzzle, followed by a new line
+A c program that prints programming is like a building multilingual puzzle
