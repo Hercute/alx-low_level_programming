@@ -1,1 +1,1 @@
-A programhat prints the size of various types on the computer it is compiled and run on
+A scrit that generates the assembly code (intel syntax) of a c c ode and save it in an output file
