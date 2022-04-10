@@ -1,1 +1,1 @@
-A c program that prints programming is like a building multilingual puzzle
+A programhat prints the size of various types on the computer it is compiled and run on
